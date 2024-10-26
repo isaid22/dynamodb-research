@@ -23,3 +23,7 @@ Provisioned capacity mode is sfor you if you:
 * Run application's traffic that is consistent or ramps gradually
 * Can forecast capacity based on reproducible traffic patterns
 
+Above are general descriptions to each pricing capacity mode. Below are the detailed comparison which will help clarify how cost is calculated for each capacity mode.
+
+## Detailed comparision of Capacity Modes
+
