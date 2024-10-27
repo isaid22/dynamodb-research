@@ -120,3 +120,17 @@ Below are definitions for units of measure for a dynamoDB table in Provisioned C
 | Write Capacity Units (WCU)  | $0.00065 per WCU  |
 | Read Capacity Units (RCU) | $0.00013 per RCU    |
 
+
+
+
+
+## Factors affecting RRU (ON-demand) and RCU (Provisioned)
+
+| Factors | RRU (On-demand) | RCU (Provisioned) | 
+| -------- | ------- | ------- |
+| Item or record size  | - [x]   | - [x] |
+| Read consistency |   - [x]    | - [x] |
+| Frequency of request |  - [x]    | |
+| Throughput |     | - [x] |
+| Burst Capacity |     | - [x] |
+| Auto Scaling |     | - [x] |
