@@ -206,4 +206,5 @@ Separate Tables for Different Workloads: For applications with a combination of 
 These strategies are applicable to either on-demand or provisioned capacity mode. 
 
 [Working Example](Example.md)
+
 [Read Consistency](ReadConsistency.md)
