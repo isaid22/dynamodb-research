@@ -6,7 +6,7 @@ One RRU's price is $0.25 per million read request units
 
 Assume read request at 100 requests per second:
 
-the cost for read in a month is:
+the number of requests in a month is:
 
 100 request per second x 60 seconds per minute x 60 minutes per hour x 24 hours per day x 30 days per month = 259.2 millions request 
 
