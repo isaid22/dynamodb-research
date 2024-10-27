@@ -204,3 +204,5 @@ Track Capacity Usage: Set up CloudWatch alarms for read and write usage, as well
 Separate Tables for Different Workloads: For applications with a combination of predictable and unpredictable traffic, use a hybrid approach where predictable traffic is managed by provisioned tables and unpredictable traffic by on-demand tables. This allows you to control costs more effectively for each workload.
 
 These strategies are applicable to either on-demand or provisioned capacity mode. 
+
+[Working Example](Example.md)
