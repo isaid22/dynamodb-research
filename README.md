@@ -128,9 +128,11 @@ Below are definitions for units of measure for a dynamoDB table in Provisioned C
 
 | Factors | RRU (On-demand) | RCU (Provisioned) | 
 | -------- | ------- | ------- |
-| Item or record size  | - [x]   | - [x] |
-| Read consistency |   - [x]    | - [x] |
-| Frequency of request |  - [x]    | |
-| Throughput |     | - [x] |
-| Burst Capacity |     | - [x] |
-| Auto Scaling |     | - [x] |
+| Item or record size  | :white_check_mark:   | :white_check_mark: |
+| Read consistency |   :white_check_mark:    | :white_check_mark: |
+| Frequency of request |  :white_check_mark:    | :x: |
+| Throughput |  :x:    | :white_check_mark: |
+| Burst Capacity |  :x:    | :white_check_mark: |
+| Auto Scaling |  :x:    | :white_check_mark: |
+
+## Expore Cost Optimization Techniques for DynamoDB
