@@ -18,8 +18,8 @@ On-demand capacity mode is for you if you:
 ### Provisioned Capacity Mode
 In provisioned capacity mode, a user specifies the number of reads and writes per second that are expected and required. a user will also specify auto scaling capacity to ensure the table's capacity and ensure application's performance.
 
-Provisioned capacity mode is sfor you if you:
-* Have predictable tapplication traffic
+Provisioned capacity mode is for you if you:
+* Have predictable application traffic
 * Run application's traffic that is consistent or ramps gradually
 * Can forecast capacity based on reproducible traffic patterns
 
